@@ -8,53 +8,30 @@ Focused on clean architecture, performance optimization, scalable backend system
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Skills
 
+### 💻 Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" />
-</p>
-
-### Backend
-
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" height="40" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS" />
 </p>
 
-* REST APIs
-* Microservices
+* REST APIs & Microservices Architecture
+* Clean Architecture & OOP Principles
 
-### Databases
-
-<p>
+### 🗄️ Databases
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
 </p>
 
-* Query Optimization
-* Schema Design
+* Database Design & Schema Architecture
+* Complex Query Optimization & Indexing
 
-### Frontend
-
-<p>
+### 🌐 Frontend
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" />
@@ -64,107 +41,70 @@ Focused on clean architecture, performance optimization, scalable backend system
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40" alt="jQuery" />
 </p>
 
-* SCSS
+* Responsive Web Design & SCSS
 
-### DevOps & Cloud
-
-<p>
+### ☁️ DevOps & Cloud
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line.svg" width="40" height="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 </p>
 
-* GitHub Actions
-* AWS
+* **CI/CD:** GitHub Actions, AWS CodePipeline
+* **AWS Ecosystem:** S3, IAM, Cognito, ECS, CloudWatch, AWS Bedrock (AI Integrations)
 
-  * S3
-  * IAM
-  * Cognito
-  * ECS
-  * CloudWatch
-  * CodePipeline
-  * AWS Bedrock
-
-### Tools
-
-* Git
-* Postman
-* ClickUp
-* ChatGPT
-* GitHub Copilot
-* Gemini
-* Claude
+### 🛠️ Tools & Productivity
+* **Version Control:** Git / GitHub
+* **API Testing:** Postman
+* **PM Tools:** ClickUp, Agile/Scrum
+* **AI Assistance:** GitHub Copilot, ChatGPT, Gemini, Claude
 
 ---
 
 ## 💼 Experience
 
 ### Senior Developer — GoWebEz *(Jan 2023 – Present)*
-
-* Developed and maintained backend modules for Inflowcare, a SaaS platform for homecare agencies.
-* Built and optimized REST APIs, improving API response time by 40%.
-* Implemented 10+ new features based on client and business requirements.
-* Integrated AI-based summarization features using AWS Bedrock.
-* Reduced MySQL query execution time by 50% through database optimization.
-* Fixed production issues and improved application stability.
-* Collaborated with frontend developers and QA teams to deliver complete product features.
+* Developed and maintained backend modules for **Inflowcare**, a SaaS platform for homecare agencies.
+* Built and optimized REST APIs, improving API response times by **40%**.
+* Integrated AI-based summarization features using **AWS Bedrock**.
+* Reduced MySQL query execution times by **50%** through deep database optimization and indexing.
+* Implemented 10+ major product features while leading production support and system stability updates.
+* Collaborated closely with frontend and QA teams to streamline cross-functional feature delivery.
 
 ### Mid-Senior Developer — GoWebEz *(Jul 2021 – Jan 2023)*
-
-* Led development for 3+ client projects including EFFG, College Major, and LDG.
-* Developed web applications using Laravel, Vue.js, React, and MySQL.
-* Improved application performance by moving API-heavy processes to server-side execution, reducing response time by 35%.
-* Delivered 15+ features, enhancements, and bug fixes.
-* Mentored junior developers and participated in technical planning and code reviews.
+* Led backend development for 3+ high-impact client projects, including **EFFG**, **College Major**, and **LDG**.
+* Developed robust web applications using Laravel, Vue.js, React, and MySQL.
+* Shifted resource-heavy processes to server-side background execution, dropping API response latency by **35%**.
+* Mentored junior developers, drove technical planning, and maintained code quality through rigorous code reviews.
 
 ### Junior Developer — GoWebEz *(Nov 2020 – Jun 2021)*
-
-* Built backend functionality using PHP and MySQL.
-* Developed responsive web applications using JavaScript and HTML.
-* Maintained existing features and fixed bugs in production systems.
+* Built and maintained backend functionality using PHP and MySQL.
+* Developed responsive web interfaces utilizing JavaScript, HTML5, and CSS3.
+* Investigated and resolved production bugs to maintain high platform uptime.
 
 ### Web Development Intern — GoWebEz *(Jul 2020 – Oct 2020)*
-
-* Worked on frontend and backend web development fundamentals.
-* Developed web applications using HTML, CSS, Bootstrap, SCSS, JavaScript, jQuery, PHP, and MySQL.
-* Collaborated with team members to understand project requirements.
+* Trained on core full-stack web development fundamentals.
+* Built internal testing applications using HTML, CSS, Bootstrap, SCSS, JavaScript, jQuery, PHP, and MySQL.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering — Electrical and Electronics Engineering**
-University College of Engineering, Anna University, Tiruchirappalli *(2019)*
-
----
-
-## 📌 Core Skills
-
-* Backend Development
-* REST API Development
-* Microservices Architecture
-* Performance Optimization
-* Database Design
-* Query Optimization
-* Scalable Web Applications
-* SaaS Application Development
-* Production Support
-* Agile & Scrum
+* **Bachelor of Engineering (B.E.) — Electrical and Electronics Engineering**
+  * University College of Engineering, Anna University, Tiruchirappalli *(2019)*
 
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
-* Email: [tamilsel505152@gmail.com](mailto:tamilsel505152@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=leों&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tamilsel505152@gmail.com)
 
 ---
 
-## 📈 GitHub Goals
-
-* Building scalable backend applications
-* Exploring AI integrations using AWS Bedrock
-* Improving system performance and architecture
-* Learning advanced cloud and DevOps practices
+## 📈 Current Focus & Goals
+* architecting highly resilient and scalable backend ecosystems.
+* Expanding AI-driven application capabilities using modern LLM infrastructure (AWS Bedrock).
+* Refining advanced DevOps strategies, container orchestration, and cloud automation.
