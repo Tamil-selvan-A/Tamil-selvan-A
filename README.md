@@ -11,6 +11,7 @@ Focused on clean architecture, performance optimization, scalable backend system
 ## 🚀 Tech Stack & Skills
 
 ### 💻 Backend
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
@@ -22,6 +23,7 @@ Focused on clean architecture, performance optimization, scalable backend system
 * Clean Architecture & OOP Principles
 
 ### 🗄️ Databases
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
@@ -31,6 +33,7 @@ Focused on clean architecture, performance optimization, scalable backend system
 * Complex Query Optimization & Indexing
 
 ### 🌐 Frontend
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
@@ -44,16 +47,19 @@ Focused on clean architecture, performance optimization, scalable backend system
 * Responsive Web Design & SCSS
 
 ### ☁️ DevOps & Cloud
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line.svg" width="40" height="40" alt="AWS" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 </p>
 
-* **CI/CD:** GitHub Actions, AWS CodePipeline
-* **AWS Ecosystem:** S3, IAM, Cognito, ECS, CloudWatch, AWS Bedrock (AI Integrations)
+* CI/CD pipelines via GitHub Actions and AWS CodePipeline
+* AWS Infrastructure: S3, IAM, Cognito, ECS, and CloudWatch
+* AI Integration workflow deployment using AWS Bedrock
 
 ### 🛠️ Tools & Productivity
+
 * **Version Control:** Git / GitHub
 * **API Testing:** Postman
 * **PM Tools:** ClickUp, Agile/Scrum
@@ -95,6 +101,16 @@ Focused on clean architecture, performance optimization, scalable backend system
 
 ---
 
+## 📌 Core Skills
+
+* Backend Development & REST API Design
+* Microservices Architecture & Clean Architecture
+* Database Design & Complex Query Optimization
+* SaaS Application Development & Scalable Infrastructure
+* Production System Monitoring & Agile/Scrum Methodologies
+
+---
+
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
@@ -105,6 +121,6 @@ Focused on clean architecture, performance optimization, scalable backend system
 ---
 
 ## 📈 Current Focus & Goals
-* architecting highly resilient and scalable backend ecosystems.
+* Architecting highly resilient and scalable backend ecosystems.
 * Expanding AI-driven application capabilities using modern LLM infrastructure (AWS Bedrock).
 * Refining advanced DevOps strategies, container orchestration, and cloud automation.
