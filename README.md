@@ -8,62 +8,58 @@ Focused on clean architecture, performance optimization, scalable backend system
 
 ---
 
-## 🚀 Tech Stack & Skills
-
-### 💻 Backend
+## 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS" />
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS" />
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="45" height="45" alt="jQuery" />
+  <!-- DevOps & Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="45" height="45" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
 </p>
 
-* REST APIs & Microservices Architecture
-* Clean Architecture & OOP Principles
+---
 
-### 🗄️ Databases
+## 🛠️ Skills & Expertise
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-</p>
+### 💡 Backend & Architecture
+* RESTful API Design & Microservices Architecture
+* Clean Architecture, Design Patterns, and OOP Principles
+* Server-side process backgrounding & Event-driven execution
 
-* Database Design & Schema Architecture
-* Complex Query Optimization & Indexing
+### 🗄️ Database Management
+* Relational Database Design (MySQL) & NoSQL Schema Architecture (MongoDB)
+* Complex Query Optimization, Indexing strategies, and Execution Tuning
 
-### 🌐 Frontend
+### 🌐 UI & Frontend Core
+* Responsive Web Interface Development
+* Stylesheet architecture utilizing SCSS and Frameworks (Bootstrap)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" height="40" alt="jQuery" />
-</p>
+### ☁️ DevOps, Cloud & AI Integration
+* CI/CD automation pipelines via GitHub Actions and AWS CodePipeline
+* Cloud Environment provisioning (AWS S3, IAM, Cognito, ECS, CloudWatch)
+* AI Workflow automation using AWS Bedrock foundation model orchestration
 
-* Responsive Web Design & SCSS
-
-### ☁️ DevOps & Cloud
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-</p>
-
-* CI/CD pipelines via GitHub Actions and AWS CodePipeline
-* AWS Infrastructure: S3, IAM, Cognito, ECS, and CloudWatch
-* AI Integration workflow deployment using AWS Bedrock
-
-### 🛠️ Tools & Productivity
-
-* **Version Control:** Git / GitHub
-* **API Testing:** Postman
-* **PM Tools:** ClickUp, Agile/Scrum
-* **AI Assistance:** GitHub Copilot, ChatGPT, Gemini, Claude
+### ⚙️ Tools & Productivity Frameworks
+* **Version Control:** Git Ecosystem
+* **API Testing & Design:** Postman
+* **Project Management:** ClickUp / Agile & Scrum Frameworks
+* **Generative AI Copilots:** GitHub Copilot, ChatGPT, Gemini, Claude
 
 ---
 
@@ -98,16 +94,6 @@ Focused on clean architecture, performance optimization, scalable backend system
 
 * **Bachelor of Engineering (B.E.) — Electrical and Electronics Engineering**
   * University College of Engineering, Anna University, Tiruchirappalli *(2019)*
-
----
-
-## 📌 Core Skills
-
-* Backend Development & REST API Design
-* Microservices Architecture & Clean Architecture
-* Database Design & Complex Query Optimization
-* SaaS Application Development & Scalable Infrastructure
-* Production System Monitoring & Agile/Scrum Methodologies
 
 ---
 
